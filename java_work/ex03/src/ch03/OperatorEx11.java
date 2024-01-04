@@ -1,3 +1,5 @@
+package ch03;
+
 class OperatorEx11 {
 	public static void main(String args[]) { 
 		char a = 'a';

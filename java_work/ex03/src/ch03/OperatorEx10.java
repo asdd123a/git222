@@ -1,3 +1,5 @@
+package ch03;
+
 class OperatorEx10 {
 	public static void main(String args[]) { 
 		int a = 1000000;
