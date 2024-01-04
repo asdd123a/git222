@@ -1,0 +1,18 @@
+package ex03;
+
+
+class AA{
+	public void doA() {
+		System.out.println("doA");
+	}
+}
+
+
+
+
+public class ex03 {
+	public static void main(String[] args) {
+		String a = "abcd";
+		System.out.println(a.toUpperCase());
+	}
+}
