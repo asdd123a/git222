@@ -1,7 +1,16 @@
+package ch03;
+
 class OperatorEx24 {
 	public static void main(String args[]) { 
+		
+		String a = "abc";
+		String b = "hdel
+		
+		
+		System.out.println();
 		int  x = 0;
 		char ch = ' ';
+		
 
 		x = 15;
 		System.out.printf("x=%2d, 10 < x && x < 20 =%b\n", x, 10 < x && x < 20);
